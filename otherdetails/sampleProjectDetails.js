@@ -35,6 +35,15 @@ const sampleProjectDetails = [
         tech: 'React.js, Tailwind CSS, TypeScript',
         npm: 'NA'
     },
+    {
+        key:'sp5',
+        img:require('@/assets/images/sampleprojectsnap/project5.png'),
+        title:'My Portfolio App using React Native',
+        link:'https://github.com/subhdas1993/portfoliousingreactnative',
+        desc:['I created a comprehensive portfolio that showcases my professional abilities and achievements.',' The portfolio features an \"About\" section that highlights my skills, a \"Works\" section that outlines my live and sample projects. ', 'To get in touch with me, please visit the \"Contacts\" section. '],
+        tech:'React-Native',
+        npm:'NA'
+    },
 ]
 
 export default sampleProjectDetails
